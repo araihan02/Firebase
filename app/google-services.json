@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311852224035",
+    "firebase_url": "https://contoh1-649c4-default-rtdb.firebaseio.com",
+    "project_id": "contoh1-649c4",
+    "storage_bucket": "contoh1-649c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311852224035:android:e8a88387ff83d859656b96",
+        "android_client_info": {
+          "package_name": "com.ahmadraihan.pertemuan2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311852224035-1lpfg9uusislhnelrdlj838850l2hi50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdv9LYOzwGhqBo8mzEqV2_QbWnsVxTtR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311852224035-1lpfg9uusislhnelrdlj838850l2hi50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
